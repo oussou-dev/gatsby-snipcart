@@ -1,6 +1,6 @@
 ---
 title: "Le Messie de Dune"
-description: Roamn de science-fiction de l'auteur américain Frank Herbert
+description: "Roamn de science-fiction de l'auteur américain Frank Herbert"
 type: "book"
 slug: "/books/messie-dune"
 ---

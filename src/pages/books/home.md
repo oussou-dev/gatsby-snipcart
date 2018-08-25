@@ -1,5 +1,5 @@
 ---
-slug: "home"
+slug: "/books/home"
 type: "home"
 ---
 

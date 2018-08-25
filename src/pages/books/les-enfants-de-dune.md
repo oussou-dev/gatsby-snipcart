@@ -1,6 +1,6 @@
 ---
 title: "Les enfants de Dune"
-description: Roman de science-fiction de l'auteur américain Frank Herbert
+description: "Roman de science-fiction de l'auteur américain Frank Herbert"
 type: "book"
 slug: "/books/enfants-dune"
 ---
