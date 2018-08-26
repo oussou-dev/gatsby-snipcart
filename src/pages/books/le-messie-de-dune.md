@@ -1,6 +1,6 @@
 ---
 title: "Le Messie de Dune"
-description: "Roamn de science-fiction de l'auteur américain Frank Herbert"
+description: "Le Messie de Dune est un roman de Frank Herbert qui fait suite au célèbre roman Dune, et le second du cycle de Dune."
 type: "book"
 slug: "/books/messie-dune"
 ---

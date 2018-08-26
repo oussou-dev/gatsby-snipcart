@@ -36,9 +36,9 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
                     const bookTemplate = path.resolve('./src/templates/book.js')
 
                     let template
-                    if (type === 'home') {
+                    if (type == 'home') {
                         template = homeTemplate
-                    } else if (type === 'book') {
+                    } else if (type == 'book') {
                         template = bookTemplate
                     }
 
