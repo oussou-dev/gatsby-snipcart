@@ -3,6 +3,7 @@ title: "Dune"
 description: "Roman de science-fiction de l'auteur américain Frank Herbert"
 type: "book"
 slug: "/books/dune"
+id: "dune"
 ---
 
 ## Résumé

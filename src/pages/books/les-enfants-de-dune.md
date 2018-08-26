@@ -3,6 +3,7 @@ title: "Les enfants de Dune"
 description: "Les Enfants de Dune (titre original : The Children of Dune), est un roman de science-fiction écrit par Frank Herbert, publié en 1976."
 type: "book"
 slug: "/books/enfants-dune"
+id: "enfants-dune"
 ---
 
 ## Résumé
