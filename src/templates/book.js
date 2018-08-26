@@ -1,6 +1,7 @@
 import React from 'react'
 
 export default ({ data }) => {
+    
     const { html } = data.markdownRemark
     const { title, description, id } = data.markdownRemark.frontmatter
     const image = require(`../images/${id}.jpeg`)
