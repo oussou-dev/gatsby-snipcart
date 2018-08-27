@@ -22,7 +22,7 @@ export default ({ data }) => {
                     data-item-price={price}
                     data-item-description={description}
                     data-item-url={slug}
-                    data-item-guid={guid}
+                    data-item-file-guid={guid}
                     data-item-image={image}
                     data-item-max-quantity={1}
             >
