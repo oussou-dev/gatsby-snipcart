@@ -4,6 +4,8 @@ description: "Les Enfants de Dune (titre original : The Children of Dune), est u
 type: "book"
 slug: "/books/enfants-dune"
 id: "enfants-dune"
+price: "7.00"
+guid: "7bfd6dc3-ee6c-4d91-a846-cdb1a29eb471"
 ---
 
 ## Résumé

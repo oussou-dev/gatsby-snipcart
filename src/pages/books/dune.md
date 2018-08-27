@@ -4,6 +4,7 @@ description: "Roman de science-fiction de l'auteur américain Frank Herbert"
 type: "book"
 slug: "/books/dune"
 id: "dune"
+guid: "a7e8cf82-1420-4a88-8f53-ddb720d3558a"
 ---
 
 ## Résumé

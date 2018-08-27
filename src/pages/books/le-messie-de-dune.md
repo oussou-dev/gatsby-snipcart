@@ -4,6 +4,7 @@ description: "Le Messie de Dune est un roman de Frank Herbert qui fait suite au 
 type: "book"
 slug: "/books/messie-dune"
 id: "messie-dune"
+guid: "29a21539-2fdd-4c3d-9c4c-5a586b1af25f"
 ---
 
 ## Résumé

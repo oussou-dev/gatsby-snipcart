@@ -3,7 +3,7 @@ import React from 'react'
 export default ({ data }) => {
     
     const { html } = data.markdownRemark
-    const { title, description, id } = data.markdownRemark.frontmatter
+    const { title, description, id, price, guid, slug } = data.markdownRemark.frontmatter
     const image = require(`../images/${id}.jpeg`)
 
     return (
@@ -16,6 +16,18 @@ export default ({ data }) => {
                 </div>
             <div style={{ width: '40%' }} dangerouslySetInnerHTML={{__html: html }}></div>
             </div>
+            <button className="snipcart-add-item" 
+                    data-item-id={0}
+                    data-item-name={title}
+                    data-item-price={price}
+                    data-item-description={description}
+                    data-item-url={slug}
+                    data-item-guid={guid}
+                    data-item-image={image}
+                    data-item-max-quantity={1}
+            >
+                Acheter
+            </button>
         </div>
     )
 } 
@@ -28,6 +40,9 @@ export const query = graphql `
                 title
                 description
                 id
+                price
+                guid
+                slug
             }
         }
     }
