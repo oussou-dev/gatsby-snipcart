@@ -17,7 +17,7 @@ export default ({ data }) => {
             <div style={{ width: '40%' }} dangerouslySetInnerHTML={{__html: html }}></div>
             </div>
             <button className="snipcart-add-item" 
-                    data-item-id={0}
+                    data-item-id={id}
                     data-item-name={title}
                     data-item-price={price}
                     data-item-description={description}

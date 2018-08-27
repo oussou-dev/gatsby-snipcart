@@ -15,7 +15,7 @@ const Layout = ({ children, data }) => (
       ]}
      > 
 
-      {/* <html lang="fr"></html> */}
+      <html lang="fr"></html>
 
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
       <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="M2Y2MTc3MDgtMTJmOS00ODQ0LTk0NGUtN2FhODI3NzJlYWQxNjM2NzA5MDQ4NDU5MTY0NDQ2" defer ></script>
